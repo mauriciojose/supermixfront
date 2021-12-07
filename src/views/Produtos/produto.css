@@ -1,0 +1,16 @@
+.rdw-editor-main{
+    background: white;
+    height: 175px;
+}
+
+.rdw-dropdownoption-default{
+    color: black;
+}
+
+.card .editor-class h1, .card .editor-class h2, .card .editor-class h3, .card .editor-class h4, .card .editor-class h5, .card .editor-class h6, .card .editor-class p {
+    color: black !important;
+}
+
+.DraftEditor-editorContainer {
+    z-index: 0; 
+}
